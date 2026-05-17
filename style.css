@@ -70,7 +70,7 @@ main {
 }
 
 .f-color-dark {
-  color: var(--clr-Black);
+  color: var(--clr-black);
 }
 .f-color-white {
   color: var(--clr-white);
